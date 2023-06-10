@@ -1,17 +1,17 @@
 ---
-name: Bug report
+name: FAYSi
 about: Create a report to help us improve
-title: ''
-labels: bug
+title: 'Message'
+labels: It is shown to me that there are messages over the world even though there are none
 assignees: ''
 
 ---
 
 **Device + OS:**
-Type device here
+Windows 10
 
 **Browser:**
-Type browser here
+Typ
 
 **Bug:**
 Type bug here
